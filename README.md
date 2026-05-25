@@ -3,7 +3,7 @@
 A complete end-to-end Machine Learning web application that predicts the Fire Weather Index (FWI) based on meteorological data. 
 
 ## 🌍 Live Application
-**[View the Live App on AWS Here](http://YOUR-AWS-IP:5000)** *(Note: Replace this with your IP once deployed!)*
+**[View the Live App on AWS Here](http://YOUR-AWS-IP:5000)**
 
 ## 🧠 About the Project
 This project utilizes a **Ridge Regression** model trained on the Algerian Forest Fires dataset. It takes real-time weather parameters (Temperature, Humidity, Wind Speed, etc.) and specific fire indices (FFMC, DMC, ISI) to predict the likelihood and severity of a forest fire.
